@@ -13,6 +13,8 @@
 		290137C926C4C9B700E61C55 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 290137C726C4C9B700E61C55 /* Main.storyboard */; };
 		290137CB26C4C9BE00E61C55 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 290137CA26C4C9BE00E61C55 /* Assets.xcassets */; };
 		290137CE26C4C9BE00E61C55 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 290137CC26C4C9BE00E61C55 /* LaunchScreen.storyboard */; };
+		290137D626C502BE00E61C55 /* Zodiac.json in Resources */ = {isa = PBXBuildFile; fileRef = 290137D526C502BD00E61C55 /* Zodiac.json */; };
+		290137D826C515B000E61C55 /* Zodiac.swift in Sources */ = {isa = PBXBuildFile; fileRef = 290137D726C515B000E61C55 /* Zodiac.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		290137CA26C4C9BE00E61C55 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		290137CD26C4C9BE00E61C55 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		290137CF26C4C9BF00E61C55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		290137D526C502BD00E61C55 /* Zodiac.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Zodiac.json; sourceTree = "<group>"; };
+		290137D726C515B000E61C55 /* Zodiac.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Zodiac.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,8 +63,10 @@
 				290137C126C4C9B700E61C55 /* AppDelegate.swift */,
 				290137C326C4C9B700E61C55 /* SceneDelegate.swift */,
 				290137C526C4C9B700E61C55 /* ViewController.swift */,
+				290137D726C515B000E61C55 /* Zodiac.swift */,
 				290137C726C4C9B700E61C55 /* Main.storyboard */,
 				290137CA26C4C9BE00E61C55 /* Assets.xcassets */,
+				290137D526C502BD00E61C55 /* Zodiac.json */,
 				290137CC26C4C9BE00E61C55 /* LaunchScreen.storyboard */,
 				290137CF26C4C9BF00E61C55 /* Info.plist */,
 			);
@@ -127,6 +133,7 @@
 				290137CE26C4C9BE00E61C55 /* LaunchScreen.storyboard in Resources */,
 				290137CB26C4C9BE00E61C55 /* Assets.xcassets in Resources */,
 				290137C926C4C9B700E61C55 /* Main.storyboard in Resources */,
+				290137D626C502BE00E61C55 /* Zodiac.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				290137C626C4C9B700E61C55 /* ViewController.swift in Sources */,
+				290137D826C515B000E61C55 /* Zodiac.swift in Sources */,
 				290137C226C4C9B700E61C55 /* AppDelegate.swift in Sources */,
 				290137C426C4C9B700E61C55 /* SceneDelegate.swift in Sources */,
 			);

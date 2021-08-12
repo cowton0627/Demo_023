@@ -1,0 +1,65 @@
+[
+
+  {
+    "name" : "摩羯座",
+    "fromDate" : "12/22",
+    "tillDate" : "01/19"
+  },
+  {
+    "name" : "水瓶座",
+    "fromDate" : "01/20",
+    "tillDate" : "02/18"
+  },
+  {
+    "name" : "雙魚座",
+    "fromDate" : "02/19",
+    "tillDate" : "03/20"
+  },
+  {
+    "name" : "牡羊座",
+    "fromDate" : "3/21",
+    "tillDate" : "4/19"
+  },
+  {
+    "name" : "金牛座",
+    "fromDate" : "04/20",
+    "tillDate" : "05/20"
+  },
+  {
+    "name" : "雙子座",
+    "fromDate" : "05/21",
+    "tillDate" : "06/20"
+  },
+  {
+    "name" : "巨蟹座",
+    "fromDate" : "06/21",
+    "tillDate" : "07/22"
+  },
+  {
+    "name" : "獅子座",
+    "fromDate" : "07/23",
+    "tillDate" : "08/22"
+  },
+  {
+    "name" : "處女座",
+    "fromDate" : "08/23",
+    "tillDate" : "09/22"
+  },
+  {
+    "name" : "天秤座",
+    "fromDate" : "09/23",
+    "tillDate" : "10/22"
+  },
+  {
+    "name" : "天蠍座",
+    "fromDate" : "10/23",
+    "tillDate" : "11/21"
+  },
+  {
+    "name" : "射手座",
+    "fromDate" : "11/22",
+    "tillDate" : "12/21"
+  }
+  
+]
+
